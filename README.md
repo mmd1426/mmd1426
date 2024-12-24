@@ -22,7 +22,7 @@
 ---
 
 ### 📫 **Let's Connect**  
-- 💌 Email: [your-email@example.com](mmahdid1426@gmail.com)  
+- 💌 Email: [mmahdid1426@gmail.com](mmahdid1426@gmail.com)  
 - 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/mmd1426) 
 
 ---

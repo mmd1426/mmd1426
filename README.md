@@ -1,4 +1,4 @@
-# 👋 **Hello, World! I'm Mohammad Mahdi Dehghani**  
+# 👋 **Hello! I'm Mohammad Mahdi Dehghani**  
 
 🚀 **AI Enthusiast | Computer Vision Specialist | Deep Learning Explorer**  
 

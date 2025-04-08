@@ -24,7 +24,7 @@
 ---
 
 ### 📫 **Let's Connect**  
-- 💌 Email: [mmahdid1426@gmail.com](mailto:mahdi.dehghani1426@gmail.com)  
+- 💌 Email: [mahdi.dehghani1426@gmail.com](mailto:mahdi.dehghani1426@gmail.com)  
 - 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/mmd1426) 
 
 ---

@@ -1,10 +1,10 @@
 # 👋 **Hello! I'm Mohammad Mahdi Dehghani**
 
-🚀 **AI Specialist | NLP & LLM Explorer | Speech & Vision Practitioner**
+🚀 **AI Specialist | LLM Explorer & Vision Practitioner**
 
 🌟 **About Me**
 
-* 🔍 Passionate about **Artificial Intelligence**, especially in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Speech Processing**, and **Computer Vision**.
+* 🔍 Passionate about **Artificial Intelligence**, especially in **Large Language Models (LLMs)** and **Computer Vision**
 * 🎯 Focused on building smart and impactful AI models to solve real-world challenges.
 * 🌱 Constantly learning and exploring the latest tools, frameworks, and research in the field of AI.
 
